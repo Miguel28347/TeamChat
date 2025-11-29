@@ -97,7 +97,7 @@ It supports **chat rooms**, **nicknames**, and **private messages**, and is desi
 <img width="3440" height="1440" alt="Screenshot 2025-11-29 024803" src="https://github.com/user-attachments/assets/a76db1c8-ed37-4288-8c29-d6097d26f108" />
 - Then navigate to GUIClientMain.java and right click and run the file. You will see a new window open with Host, Port and Username. You will also have two buttons (Connect and Disconnect).
 <img width="3440" height="1380" alt="Screenshot 2025-11-29 025229" src="https://github.com/user-attachments/assets/1bf21604-cb59-488d-ba93-842aa22fc995" />
-- Create as many of these users as you want!
+- Create as many of these users as you want.
 - You have the option to change chat rooms, choose nicknames and send private messages. Directions on how to do all these are provided once you connect.
 <img width="3440" height="1440" alt="Screenshot 2025-11-29 025834" src="https://github.com/user-attachments/assets/dbc94660-5c6d-4b2f-8805-fcc592cd8745" />
 
