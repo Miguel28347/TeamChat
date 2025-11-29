@@ -1,8 +1,12 @@
 TeamChat – Multi-Client Java Chat System (Console + GUI)
 
 Author: Miguel Gonzalez
+
 Technologies: Java, TCP Sockets, Multithreading, Swing, Concurrency, NetBeans/Ant
+
 Repository: https://github.com/Miguel28347/TeamChat
+
+
 
 Overview
 
@@ -18,6 +22,7 @@ Clients can join chat rooms, set usernames, and send private messages through a 
 
 
 Features
+
 ✔️ Multithreaded Chat Server
 
 One thread per client (ClientHandler)
