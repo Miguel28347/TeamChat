@@ -95,7 +95,7 @@ It supports **chat rooms**, **nicknames**, and **private messages**, and is desi
 - Open ServerMain.java
 - Right click and run, you should see the output window say "[SERVER] Listening on port 5000".
 <img width="3440" height="1440" alt="Screenshot 2025-11-29 024803" src="https://github.com/user-attachments/assets/a76db1c8-ed37-4288-8c29-d6097d26f108" />
-- Then navigate to GUIClientMain.java and right click and run the file. You will see a new window open with Host, Port and Username. You will also have to buttons (Connect and Disconnect).
+- Then navigate to GUIClientMain.java and right click and run the file. You will see a new window open with Host, Port and Username. You will also have two buttons (Connect and Disconnect).
 <img width="3440" height="1380" alt="Screenshot 2025-11-29 025229" src="https://github.com/user-attachments/assets/1bf21604-cb59-488d-ba93-842aa22fc995" />
 - Create as many of these users as you want!
 - You have the option to change chat rooms, change usernames and send private messages. Directions on how to do all these is provided once you connect.
