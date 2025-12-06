@@ -171,7 +171,7 @@ Command	Description
 <img width="3440" height="1440" alt="Screenshot 2025-11-29 025834" src="https://github.com/user-attachments/assets/bd11085f-b022-4dec-b5e1-e30f51ca75b6" />
 
 
-Motivation
+## Motivation  
 
 This project was built to strengthen skills in:
 
@@ -183,7 +183,7 @@ Designing scalable server–client systems
 
 Java Swing GUI development
 
-Tech Highlights
+## Tech Highlights  
 
 This project demonstrates:
 
@@ -201,7 +201,7 @@ Full JavaDoc documentation across codebase
 
 Future Improvements:
 
-⭐ High-Value Additions
+## ⭐ High-Value Additions  
 
 Message encryption (AES or RSA)
 
@@ -215,15 +215,10 @@ Online user list in GUI
 
 Multiple room tabs
 
-⭐ "Stretch" Features
+## ⭐ "Stretch" Features  
 
 File transfers
 
 Server admin commands
 
-WebSocket version for future web UI
-
-Adding even one of these will significantly elevate the project to top-tier undergrad work.
-
-
-Developed by Miguel Gonzalez
+WebSocket version for future web 
