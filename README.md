@@ -1,4 +1,4 @@
-TeamChat – Multi-Client Java Chat System (Console + GUI)
+# TeamChat – Multi-Client Java Chat System (Console + GUI). 
 
 Author: Miguel Gonzalez
 
